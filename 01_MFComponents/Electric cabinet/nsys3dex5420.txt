@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"Schneider";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"90-30092021-079378";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Schneider Electric Spacial S3D, Steel Wall Box, IP66, 200mm x 500 mm x 400 mm";"";
+"TraceParts.InstanceId";"90-30092021-079378BAGYU652KDZQJSUZJ8BVBK5S1";"";
+"TraceParts.PartTitle";"Schneider Electric Spacial S3D, Steel Wall Box, IP66, 200mm x 500 mm x 400 mm";"";
+"REFERENCE";"NSYS3DEX5420";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/7018376?cm_mmc=en-ds-_-mcad-_-traceparts-_-7018376";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"7018376";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:90-30092021-079378";"";
